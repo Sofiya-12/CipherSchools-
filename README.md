@@ -18,7 +18,7 @@ Welcome to the Quiz Application, a full-stack project built using the MERN stack
 - **Backend**: Node.js with Express.js for server-side logic and API endpoints.
 - **Database**: MongoDB for storing user data, quiz questions, and results.
 - **Authentication**: JSON Web Tokens (JWT) for secure user sessions.
-- **Deployment**: Deployed on Heroku (or another platform) for easy access.
+
 
 ## Installation
 
